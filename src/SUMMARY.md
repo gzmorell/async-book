@@ -18,7 +18,7 @@
   - [`select!`](06_multiple_futures/03_select.md)
   - [TODO: Spawning]()
   - [TODO: Cancellation and Timeouts]()
-  - [TODO: `FuturesUnordered`]()
+  - [`FuturesUnordered`](06_multiple_futures/05_futuresunordered.md)
 - [Workarounds to Know and Love](07_workarounds/01_chapter.md)
   - [`?` in `async` Blocks](07_workarounds/02_err_in_async_blocks.md)
   - [`Send` Approximation](07_workarounds/03_send_approximation.md)
