@@ -11,6 +11,7 @@ members = [
   "06_02_join",
   "06_03_select",
   "06_04_spawning",
+  "06_05_futuresunordered",
   "07_05_recursion",
   "09_01_sync_tcp_server",
   "09_02_async_tcp_server",
